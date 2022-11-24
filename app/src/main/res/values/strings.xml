@@ -1,0 +1,320 @@
+<resources>
+    <string name="app_name">Aston_6</string>
+
+    <string-array name="users">
+        <item>Micheal Shaw</item>
+        <item>Robert Johnson</item>
+        <item>Jeffrey Jones</item>
+        <item>Brandon Wilson</item>
+        <item>Bruce Douglas</item>
+        <item>Andy Sanchez</item>
+        <item>Shawn Grant</item>
+        <item>Brian Miller</item>
+        <item>James Jackson</item>
+        <item>Louis Snyder</item>
+        <item>Robert Johnson</item>
+        <item>Harold Robinson</item>
+        <item>Robert Todd</item>
+        <item>Louis Snyder</item>
+        <item>Jeffrey Armstrong</item>
+        <item>Richard Lewis</item>
+        <item>Jonathan Moss</item>
+        <item>Wayne Henderson</item>
+        <item>Patrick Burton</item>
+        <item>Dave Lowe</item>
+        <item>Micheal Shaw</item>
+        <item>Robert Johnson</item>
+        <item>Jeffrey Jones</item>
+        <item>Brandon Wilson</item>
+        <item>Bruce Douglas</item>
+        <item>Andy Sanchez</item>
+        <item>Shawn Grant</item>
+        <item>Brian Miller</item>
+        <item>James Jackson</item>
+        <item>Louis Snyder</item>
+        <item>Robert Johnson</item>
+        <item>Harold Robinson</item>
+        <item>Robert Todd</item>
+        <item>Louis Snyder</item>
+        <item>Jeffrey Armstrong</item>
+        <item>Richard Lewis</item>
+        <item>Jonathan Moss</item>
+        <item>Wayne Henderson</item>
+        <item>Patrick Burton</item>
+        <item>Dave Lowe</item>
+        <item>Micheal Shaw</item>
+        <item>Robert Johnson</item>
+        <item>Jeffrey Jones</item>
+        <item>Brandon Wilson</item>
+        <item>Bruce Douglas</item>
+        <item>Andy Sanchez</item>
+        <item>Shawn Grant</item>
+        <item>Brian Miller</item>
+        <item>James Jackson</item>
+        <item>Louis Snyder</item>
+        <item>Robert Johnson</item>
+        <item>Harold Robinson</item>
+        <item>Robert Todd</item>
+        <item>Louis Snyder</item>
+        <item>Jeffrey Armstrong</item>
+        <item>Richard Lewis</item>
+        <item>Jonathan Moss</item>
+        <item>Wayne Henderson</item>
+        <item>Patrick Burton</item>
+        <item>Dave Lowe</item>
+        <item>Micheal Shaw</item>
+        <item>Robert Johnson</item>
+        <item>Jeffrey Jones</item>
+        <item>Brandon Wilson</item>
+        <item>Bruce Douglas</item>
+        <item>Andy Sanchez</item>
+        <item>Shawn Grant</item>
+        <item>Brian Miller</item>
+        <item>James Jackson</item>
+        <item>Louis Snyder</item>
+        <item>Robert Johnson</item>
+        <item>Harold Robinson</item>
+        <item>Robert Todd</item>
+        <item>Louis Snyder</item>
+        <item>Jeffrey Armstrong</item>
+        <item>Richard Lewis</item>
+        <item>Jonathan Moss</item>
+        <item>Wayne Henderson</item>
+        <item>Patrick Burton</item>
+        <item>Dave Lowe</item>
+        <item>Micheal Shaw</item>
+        <item>Robert Johnson</item>
+        <item>Jeffrey Jones</item>
+        <item>Brandon Wilson</item>
+        <item>Bruce Douglas</item>
+        <item>Andy Sanchez</item>
+        <item>Shawn Grant</item>
+        <item>Brian Miller</item>
+        <item>James Jackson</item>
+        <item>Louis Snyder</item>
+        <item>Robert Johnson</item>
+        <item>Harold Robinson</item>
+        <item>Robert Todd</item>
+        <item>Louis Snyder</item>
+        <item>Jeffrey Armstrong</item>
+        <item>Richard Lewis</item>
+        <item>Jonathan Moss</item>
+        <item>Wayne Henderson</item>
+        <item>Patrick Burton</item>
+        <item>Dave Lowe</item>
+
+    </string-array>
+
+    <string-array name="numberPhone">
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+        <item>+375447996960</item>
+        <item>+375297996960</item>
+        <item>+375337996960</item>
+        <item>+375447996960</item>
+        <item>+375117996960</item>
+        <item>+375427996960</item>
+        <item>+375007996960</item>
+        <item>+375777996960</item>
+        <item>+375557996960</item>
+        <item>+375887996960</item>
+    </string-array>
+
+
+        <string-array name="linkPhoto">
+            <item>https://picsum.photos/id/1/200/300</item>
+            <item>https://picsum.photos/id/2/200/300</item>
+            <item>https://picsum.photos/id/3/200/300</item>
+            <item>https://picsum.photos/id/4/200/300</item>
+            <item>https://picsum.photos/id/5/200/300</item>
+            <item>https://picsum.photos/id/6/200/300</item>
+            <item>https://picsum.photos/id/7/200/300</item>
+            <item>https://picsum.photos/id/8/200/300</item>
+            <item>https://picsum.photos/id/9/200/300</item>
+            <item>https://picsum.photos/id/10/200/300</item>
+            <item>https://picsum.photos/id/11/200/300</item>
+            <item>https://picsum.photos/id/12/200/300</item>
+            <item>https://picsum.photos/id/13/200/300</item>
+            <item>https://picsum.photos/id/14/200/300</item>
+            <item>https://picsum.photos/id/15/200/300</item>
+            <item>https://picsum.photos/id/16/200/300</item>
+            <item>https://picsum.photos/id/17/200/300</item>
+            <item>https://picsum.photos/id/18/200/300</item>
+            <item>https://picsum.photos/id/19/200/300</item>
+            <item>https://picsum.photos/id/20/200/300</item>
+            <item>https://picsum.photos/id/21/200/300</item>
+            <item>https://picsum.photos/id/22/200/300</item>
+            <item>https://picsum.photos/id/23/200/300</item>
+            <item>https://picsum.photos/id/24/200/300</item>
+            <item>https://picsum.photos/id/25/200/300</item>
+            <item>https://picsum.photos/id/26/200/300</item>
+            <item>https://picsum.photos/id/27/200/300</item>
+            <item>https://picsum.photos/id/28/200/300</item>
+            <item>https://picsum.photos/id/29/200/300</item>
+            <item>https://picsum.photos/id/30/200/300</item>
+            <item>https://picsum.photos/id/31/200/300</item>
+            <item>https://picsum.photos/id/32/200/300</item>
+            <item>https://picsum.photos/id/33/200/300</item>
+            <item>https://picsum.photos/id/34/200/300</item>
+            <item>https://picsum.photos/id/35/200/300</item>
+            <item>https://picsum.photos/id/36/200/300</item>
+            <item>https://picsum.photos/id/37/200/300</item>
+            <item>https://picsum.photos/id/38/200/300</item>
+            <item>https://picsum.photos/id/39/200/300</item>
+            <item>https://picsum.photos/id/40/200/300</item>
+            <item>https://picsum.photos/id/41/200/300</item>
+            <item>https://picsum.photos/id/42/200/300</item>
+            <item>https://picsum.photos/id/43/200/300</item>
+            <item>https://picsum.photos/id/44/200/300</item>
+            <item>https://picsum.photos/id/45/200/300</item>
+            <item>https://picsum.photos/id/46/200/300</item>
+            <item>https://picsum.photos/id/47/200/300</item>
+            <item>https://picsum.photos/id/48/200/300</item>
+            <item>https://picsum.photos/id/49/200/300</item>
+            <item>https://picsum.photos/id/50/200/300</item>
+            <item>https://picsum.photos/id/51/200/300</item>
+            <item>https://picsum.photos/id/52/200/300</item>
+            <item>https://picsum.photos/id/53/200/300</item>
+            <item>https://picsum.photos/id/54/200/300</item>
+            <item>https://picsum.photos/id/55/200/300</item>
+            <item>https://picsum.photos/id/56/200/300</item>
+            <item>https://picsum.photos/id/57/200/300</item>
+            <item>https://picsum.photos/id/58/200/300</item>
+            <item>https://picsum.photos/id/59/200/300</item>
+            <item>https://picsum.photos/id/60/200/300</item>
+            <item>https://picsum.photos/id/61/200/300</item>
+            <item>https://picsum.photos/id/62/200/300</item>
+            <item>https://picsum.photos/id/63/200/300</item>
+            <item>https://picsum.photos/id/64/200/300</item>
+            <item>https://picsum.photos/id/65/200/300</item>
+            <item>https://picsum.photos/id/66/200/300</item>
+            <item>https://picsum.photos/id/67/200/300</item>
+            <item>https://picsum.photos/id/68/200/300</item>
+            <item>https://picsum.photos/id/69/200/300</item>
+            <item>https://picsum.photos/id/70/200/300</item>
+            <item>https://picsum.photos/id/71/200/300</item>
+            <item>https://picsum.photos/id/72/200/300</item>
+            <item>https://picsum.photos/id/73/200/300</item>
+            <item>https://picsum.photos/id/74/200/300</item>
+            <item>https://picsum.photos/id/75/200/300</item>
+            <item>https://picsum.photos/id/76/200/300</item>
+            <item>https://picsum.photos/id/77/200/300</item>
+            <item>https://picsum.photos/id/78/200/300</item>
+            <item>https://picsum.photos/id/79/200/300</item>
+            <item>https://picsum.photos/id/80/200/300</item>
+            <item>https://picsum.photos/id/81/200/300</item>
+            <item>https://picsum.photos/id/82/200/300</item>
+            <item>https://picsum.photos/id/83/200/300</item>
+            <item>https://picsum.photos/id/84/200/300</item>
+            <item>https://picsum.photos/id/85/200/300</item>
+            <item>https://picsum.photos/id/86/200/300</item>
+            <item>https://picsum.photos/id/87/200/300</item>
+            <item>https://picsum.photos/id/88/200/300</item>
+            <item>https://picsum.photos/id/89/200/300</item>
+            <item>https://picsum.photos/id/90/200/300</item>
+            <item>https://picsum.photos/id/91/200/300</item>
+            <item>https://picsum.photos/id/92/200/300</item>
+            <item>https://picsum.photos/id/93/200/300</item>
+            <item>https://picsum.photos/id/94/200/300</item>
+            <item>https://picsum.photos/id/95/200/300</item>
+            <item>https://picsum.photos/id/96/200/300</item>
+            <item>https://picsum.photos/id/97/200/300</item>
+            <item>https://picsum.photos/id/98/200/300</item>
+            <item>https://picsum.photos/id/99/200/300</item>
+            <item>https://picsum.photos/id/100/200/300</item>
+        </string-array>
+
+
+
+
+
+
+    </resources>
